@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">
+    <img alt="Banner" src=".github/banner.png" width="100%">
+  </a>
+</h1>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kesleydavid&count_private=true&show_icons=true&theme=dracula)
 
