@@ -10,7 +10,7 @@ I'm a Full Stack developer, super passionate about programming, and currently st
 
  :rocket:  &nbsp; I'm working as a Full Stack developer at **KesleyDEV**
  <br/> :purple_heart: &nbsp; Looking to collaborate on projects with React/Next/Node
- <br/> :blush: &nbsp; I can help you with CSS, Styled Components, HTML, React, Next.js, Node.js, and React Native
+ <br/> :blush: &nbsp; I can help you with CSS, Tailwind CSS, Styled Components, HTML, React, Next.js, Node.js, and React Native
  <br/> :computer: &nbsp; My stack: ReactJS, React Native, Next.js, Node.js and Typescript
  <br/> 💬  &nbsp; About me: I always loved technology and I'm a born gamer 😎🎮!
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-KesleyDEV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesleydev/)](https://www.linkedin.com/in/gbdesigns13/) 
