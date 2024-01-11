@@ -4,9 +4,8 @@
   </a>
 </h1>
 
-# Kesley DEV
+### Hello guys 👋
 
-## Hello guys 👋
 I'm a Full Stack developer, super passionate about programming, and currently studying more and more!
 
  :rocket:  &nbsp; I'm working as a Full Stack developer at **KesleyDEV**
