@@ -1,21 +1,58 @@
-<h1 align="center">
-  <a href="https://www.linkedin.com/in/kesleydavid/" target="_blank">
-    <img alt="Banner" src=".github/banner.png" width="100%">
+<p align="center">
+  <a href="https://www.linkedin.com/in/kesleydavid/">
+    <img
+      alt="Kesley DEV"
+      src=".github/banner.png"
+      width="100%"
+    />
   </a>
-</h1>
+</p>
 
-### Hello guys 👋
+# Hi, I'm Kesley 👋
 
-I'm a Full Stack developer, super passionate about programming, and currently studying more and more!
+**Senior Full-Stack Engineer | TypeScript, React, Node.js & AWS | AI Integrations**
 
- :rocket:  &nbsp; I'm working as a Full Stack developer at **KesleyDEV**
- <br/> :purple_heart: &nbsp; Looking to collaborate on projects with React/Next/Node
- <br/> :blush: &nbsp; I can help you with CSS, Tailwind CSS, Styled Components, HTML, React, Next.js, Node.js, and React Native
- <br/> :computer: &nbsp; My stack: ReactJS, React Native, Next.js, Node.js and Typescript
- <br/> 💬  &nbsp; About me: I always loved technology and I'm a born gamer 😎🎮!
- <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-KesleyDEV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesleydev/)](https://www.linkedin.com/in/gbdesigns13/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-hi@kesley.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@kesley.dev)](mailto:hi@kesley.dev)
+I'm the founder of **Kesley DEV**. I build web applications, APIs, SaaS products and data workflows, working across architecture, frontend, backend, cloud infrastructure and delivery.
 
+My background includes **17 years of hands-on JavaScript experience**, **8 years with React and Node.js**, **5 years with TypeScript**, and **6 years with AWS**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesleydavid&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## What I work on
+
+- **Full-stack development:** web applications, APIs, dashboards and business systems.
+- **Cloud infrastructure:** AWS services, serverless architectures and integrations between services.
+- **Applied AI:** LLM API integrations, prompt engineering, model orchestration, structured responses and output validation.
+- **Data processing:** ingestion, cleaning, validation, enrichment, deduplication and batch processing.
+- **Software delivery:** containerized environments, automated checks and CI/CD pipelines.
+
+I also experiment with **RAG, local LLMs and LoRA fine-tuning** through prototypes and small projects.
+
+## Main stack
+
+| Area | Technologies |
+|---|---|
+| Languages | JavaScript, TypeScript, Python |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Mobile | React Native, Expo |
+| Backend | Node.js, Express, NestJS, REST APIs |
+| Cloud | AWS, serverless architectures |
+| Data | PostgreSQL, DynamoDB, MongoDB, pandas, DuckDB |
+| Delivery | Docker, Git, GitHub Actions, GitLab CI/CD |
+
+## Credentials and training
+
+- GitLab Certified Git Associate
+- GitLab Certified Associate
+- Oracle Cloud Foundations
+- Uncomplicating Docker — LinuxTips
+
+## A little about me
+
+I enjoy technology, gaming and learning through practical projects.
+
+I value clear communication, maintainable code and solutions that address real business needs. I'm open to collaborating on React, Next.js, Node.js and applied AI projects.
+
+## Get in touch
+
+[Website](https://www.kesley.dev/) ·
+[LinkedIn](https://www.linkedin.com/in/kesleydavid/) ·
+[Email](mailto:hi@kesley.dev)
